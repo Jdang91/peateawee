@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF :-1,UK
+https://iptv-org.github.io/iptv/countries/uk.m3u
+#EXTINF :-2,USA
+https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF :-3,SRI
+https://iptv-org.github.io/iptv/countries/lk.m3u
+#EXTINF :-4,JAP
+https://iptv-org.github.io/iptv/countries/jp.m3u
+#EXTINF :-5,FRA
+https://iptv-org.github.io/iptv/countries/fr.m3u
